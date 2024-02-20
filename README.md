@@ -6,7 +6,8 @@ Lovene ble sist endret på Generalforsamlingen 23. juni 2018.
 I ORGANISASJONENS OPPBYGNING
 
 §1 Norges Kristelige Student- og Skoleungdomslag
-(nedenfor kalt Laget) består av lag fra ungdomsskoler, videregående skoler, skoler for høgere
+(nedenfor kalt Laget) består av lag fra ungdoms-
+skoler, videregående skoler, skoler for høgere
 utdanning og universitet.
 
 §2 Generalforsamlingen er Lagets lovgivende
@@ -77,7 +78,8 @@ h) Generalforsamlingen kan vedta oppløsning av
 Laget med 3/4 flertall på to påfølgende
 generalforsamlinger.
 
-§13 a) Skolelagene, studentlagene og lagsvennutvalgene kan foreslå saker som skal opp på
+§13 a) Skolelagene, studentlagene og lagsvenn-
+utvalgene kan foreslå saker som skal opp på
 Generalforsamlingen.
 b) Landsstyret setter frist for forslag til saker og
 setter opp den endelige saksliste for
@@ -92,7 +94,8 @@ III LANDSSTYRET
 §15 a) Landsstyret består av 9 medlemmer,
 inkludert en ansattrepresentant.
 Generalforsamlingen velger 8 medlemmer; 4
-lagsvennmedlemmer og 4 skole/studentmedlemmer. Leder velges først ved
+lagsvennmedlemmer og 4 skole/student-
+medlemmer. Leder velges først ved
 særskilt valg og ved kvalifisert flertall. De øvrige
 7 medlemmene velges av Generalforsamlingen
 ved flertallsvalg. Ansattrepresentanten velges av
@@ -105,7 +108,8 @@ for skole- og studentrepresentantene ved
 særskilt valg. Ansattrepresentanten i styret skal
 ha 2 personlige varamedlemmer.
 
-§16 a) Kandidater til Landsstyret kan foreslås av skoleog studentlagene og av lagsvennutvalgene.
+§16 a) Kandidater til Landsstyret kan foreslås av skole-
+og studentlagene og av lagsvennutvalgene.
 b) Generalforsamlingen velger to
 lagsvennmedlemmer og 2
 skole/studentmedlemmer til en valgkomite
