@@ -27,7 +27,7 @@ Hellige Skrift og i den apostoliske trosbekjennelse.
 §5 Landsstyret bygger på Den Hellige Skrift og den
 evangelisk-lutherske bekjennelse.
 
-I FORMÅL
+III FORMÅL
 
 §6 Lagets formål er:
 a) å samle kristne studenter og skoleungdom
@@ -35,7 +35,7 @@ hjemme og ute for å styrke og utdype deres
 åndelige liv og
 b) å vinne andre for Kristus.
 
-II GENERALFORSAMLINGEN
+IV GENERALFORSAMLINGEN
 
 §7 Generalforsamlingen holdes hvert annet år.
 Landsstyret fastsetter tid og sted for
@@ -78,8 +78,8 @@ h) Generalforsamlingen kan vedta oppløsning av
 Laget med 3/4 flertall på to påfølgende
 generalforsamlinger.
 
-§13 a) Skolelagene, studentlagene og lagsvenn-
-utvalgene kan foreslå saker som skal opp på
+§13 a) Skolelagene, studentlagene og Lagsvenn-
+rådet kan foreslå saker som skal opp på
 Generalforsamlingen.
 b) Landsstyret setter frist for forslag til saker og
 setter opp den endelige saksliste for
@@ -89,7 +89,7 @@ Generalforsamlingen.
 protokoll, som sendes delegatene snarest mulig
 etter godkjennelse i Landsstyret.
 
-III LANDSSTYRET
+V LANDSSTYRET
 
 §15 a) Landsstyret består av 9 medlemmer,
 inkludert en ansattrepresentant.
@@ -109,7 +109,7 @@ særskilt valg. Ansattrepresentanten i styret skal
 ha 2 personlige varamedlemmer.
 
 §16 a) Kandidater til Landsstyret kan foreslås av skole-
-og studentlagene og av lagsvennutvalgene.
+og studentlagene og av Lagsvennrådet.
 b) Generalforsamlingen velger to
 lagsvennmedlemmer og 2
 skole/studentmedlemmer til en valgkomite
@@ -158,7 +158,7 @@ Generalforsamlingen.
 i) Foreslå lovendringer for
 Generalforsamlingen.
 
-IV REPRESENTANTSKAP
+VI REPRESENTANTSKAP
 
 §23 a) Representantskapet består av 4 personer
 som velges på Generalforsamlingen etter
@@ -178,7 +178,7 @@ innenfor dens ansvarsområde behandles på
 nytt i Landsstyret eller den kan fremme slike
 saker for Generalforsamlingen.
 
-V LAGENE
+VII LAGENE
 
 §24 Lagenes tilslutning skjer ved innmelding i
 Laget.
@@ -188,16 +188,10 @@ lagene.
 b) Lovene skal inneholde grunnlags- og
 formålsparagrafene 4 og 6, videre 25c eller d
 og 26 med den formelle tilpasning.
-c) Lagenes styremedlemmer må være personlige
-kristne.
-d) I lag ved ungdomsskoler er lagsmedlemmer
-som har vært med i laget minst ett semester
-og som selv ønsker å være kristne, valgbare
-til styret. Ethvert ungdomsskolelag skal ha en
-voksenleder som er personlig kristen.
-Voksenlederen sitter i styret uten stemmerett
-og oppnevnes av lagssekretæren i samråd
-med styret.
+c) Lagenes styremedlemmer må tilslutte seg 
+Lagets formål.
+d) Ethvert ungdomsskolelag skal etterstrebe å ha en
+voksenkontakt som tilslutter seg Lagets formål.
 
 §26 For lagene gjelder:
 a) Fast eiendom kan ikke anskaffes, beheftes
@@ -212,10 +206,7 @@ innsamlinger i lag til en annen
 hovedorganisasjon disse lagene også er
 medlem av.
 d) Oppløses et lag tilfaller dets midler
-Laget. Dersom dette gjelder et lag ved en
-høgskole eller universitet som er medlem
-aven annen organisasjon, deles midlene
-mellom denne organisasjonen og Laget.
+Laget.
 e) Dersom et lag utmeldes eller skilles fra
 Laget, tilfaller lagets faste eiendom Laget.
 Lag ved høgskoler og universiteter som
@@ -224,19 +215,25 @@ må avklare eiendomsforholdet i
 eiendomsstatuttene. Statuttene må
 godkjennes av Landsstyret.
 
-VI LAGSVENNUTVALGENE
+VIII LAGSVENNRÅDET
 
 §27 Lagsvennutvalgene har inntil 6 medlemmer.
-Disse velges på et årsmøte/samling for
-lagsvennmedlemmer i regionen/fylket.
-Funksjonstiden er to år. En ansatt i
-regionen sitter som fast medlem i
-utvalget.
+a) Lagsvennrådet består av 7 medlemmer. 
+Samtlige regioner skal være representert 
+i Lagsvennrådet. 
+b) Avtroppende Lagsvennråd foreslår nye 
+kandidater til påtroppende Lagsvennråd. 
+Lagsvennrådet oppnevnes i etterkant av valg 
+av Landsstyret.
+c) Medlemmene velges for en periode på 2 år. 
+Medlemmene kan maksimalt velges for 8 år.
+d) En person fra Lagets ledelse deltar fast 
+på Lagsvennrådets møter.
 
 §28 Landsstyret vedtar instruks for
-lagsvennutvalgene. §26a og c gjelder
-også for lagsvennutvalgene.
-VII LOVENDRINGER
+Lagsvennrådet.
+
+IX LOVENDRINGER
 
 §29 a) Lovendringer kan foretas av
 Generalforsamlingen. Minst 3/4 av de
